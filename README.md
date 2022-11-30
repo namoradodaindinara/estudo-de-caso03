@@ -1,1 +1,5 @@
-# estudo-de-caso03
+# Banco de Dados - Estudo de Caso 03
+
+- [] Script
+- [] Model
+- [] PDF
